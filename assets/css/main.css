@@ -1567,11 +1567,8 @@ input, select, textarea {
 	}
 
 		#banner .bordered-feature-image {
-			margin-bottom: 20;
-			width: 50%;
-    		aspect-ratio: 2/1;  /* Rasio ultra-wide untuk banner */
-    		object-fit: cover;
-    		border: 2px solid #3e484a; /* Tambahan dari saran sebelumnya */
+			margin-bottom: 0;
+			
 		}
 
 		#banner p {
